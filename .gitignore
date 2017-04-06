@@ -1,1 +1,11 @@
 .DS_Store
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+
+.ipynb_checkpoints/
+first-neural-network/DLND Your first neural network.ipynb
+image-classification/helper.py
+first-neural-network/DLND Your first neural network.ipynb
+first-neural-network/DLND Your first neural network.ipynb
